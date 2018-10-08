@@ -1,0 +1,7 @@
+# Unit-Tests
+Unit Testing with Data Driven Tests
+
+# SOFTWARE UNIT TESTING WITH DATA DRIVEN TESTS
+Unit Testing is a function which is used to test if a part of computer source code is correct. The main objective is to help the programmer to test easily if a part of code has the intended result.
+Programming differs from person to person and the only way to compare different implementations is to test if they deliver the intended results. This is achieved by testing if the code delivers the expected results. Unit testing helps to write a program without losing valuable time at debugging at every new line of code. The source code is organized in control test methods which test results for every possible parameter and return a boolean result indicating if a test is successful or fails. Unit tests are popular because they can be used to test many input parameters and in case of failures, they can deliver traceable error messages without having to fully run the application. Consequently, a program with unit testing can be tested regularly and fast and more often at any point of the program development.
+I apply the Unit testing method to the development of a program. The Unit Test indicates if the program delivers the expected result depending on its input parameters. The program contains four (4) mathematical functions (Average, Min Max, Bubble Sort and Binary Search) and four (4) csv files (theam01, thema02, thema03, thema04) witch contains the expected result for each functions inputs.
