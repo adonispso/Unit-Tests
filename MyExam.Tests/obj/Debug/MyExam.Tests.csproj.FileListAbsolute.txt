@@ -1,0 +1,8 @@
+C:\Users\APSOMAS\Documents\Visual Studio 2013\Projects\MyExam\MyExam.Tests\obj\Debug\MyExam.Tests.csprojResolveAssemblyReference.cache
+C:\Users\APSOMAS\Documents\Visual Studio 2013\Projects\MyExam\MyExam.Tests\bin\Debug\MyExam.Tests.dll
+C:\Users\APSOMAS\Documents\Visual Studio 2013\Projects\MyExam\MyExam.Tests\bin\Debug\MyExam.Tests.pdb
+C:\Users\APSOMAS\Documents\Visual Studio 2013\Projects\MyExam\MyExam.Tests\bin\Debug\MyExam.dll
+C:\Users\APSOMAS\Documents\Visual Studio 2013\Projects\MyExam\MyExam.Tests\bin\Debug\MyExam.pdb
+C:\Users\APSOMAS\Documents\Visual Studio 2013\Projects\MyExam\MyExam.Tests\obj\Debug\MyExam.Tests.dll
+C:\Users\APSOMAS\Documents\Visual Studio 2013\Projects\MyExam\MyExam.Tests\obj\Debug\MyExam.Tests.pdb
+C:\Users\APSOMAS\Documents\Visual Studio 2013\Projects\MyExam\MyExam.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll

@@ -1,0 +1,5 @@
+C:\Users\APSOMAS\Documents\Visual Studio 2013\Projects\MyExam\MyExam\bin\Debug\MyExam.dll
+C:\Users\APSOMAS\Documents\Visual Studio 2013\Projects\MyExam\MyExam\bin\Debug\MyExam.pdb
+C:\Users\APSOMAS\Documents\Visual Studio 2013\Projects\MyExam\MyExam\obj\Debug\MyExam.dll
+C:\Users\APSOMAS\Documents\Visual Studio 2013\Projects\MyExam\MyExam\obj\Debug\MyExam.pdb
+C:\Users\APSOMAS\documents\visual studio 2013\Projects\MyExam\MyExam\obj\Debug\MyExam.csprojResolveAssemblyReference.cache
